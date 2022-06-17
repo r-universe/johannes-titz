@@ -1,0 +1,14 @@
+[
+  {
+    "package": "fastpos",
+    "oncran": true
+  },
+  {
+    "package": "leabRa",
+    "oncran": true
+  },
+  {
+    "package": "passt",
+    "oncran": true
+  }
+]
