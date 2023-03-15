@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "passt",
+    "package": "leabRa",
     "oncran": true
   },
   {
-    "package": "leabRa",
+    "package": "passt",
     "oncran": true
   }
 ]

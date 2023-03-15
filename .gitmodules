@@ -8,13 +8,13 @@
 	url = https://github.com/johannes-titz/fastpos
 	shallow = true
 	registered = true
-[submodule "passt"]
-	path = passt
-	url = https://github.com/johannes-titz/passt
-	shallow = true
-	registered = true
 [submodule "leabRa"]
 	path = leabRa
 	url = https://github.com/johannes-titz/leabra
+	shallow = true
+	registered = true
+[submodule "passt"]
+	path = passt
+	url = https://github.com/johannes-titz/passt
 	shallow = true
 	registered = true
