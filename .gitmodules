@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fastpos"]
 	path = fastpos
 	url = https://github.com/johannes-titz/fastpos
-	shallow = true
-	registered = true
 [submodule "leabRa"]
 	path = leabRa
 	url = https://github.com/johannes-titz/leabra
-	shallow = true
-	registered = true
 [submodule "passt"]
 	path = passt
 	url = https://github.com/johannes-titz/passt
-	shallow = true
-	registered = true
