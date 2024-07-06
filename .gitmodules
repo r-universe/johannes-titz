@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cofad"]
+	path = cofad
+	url = https://github.com/johannes-titz/cofad
 [submodule "fastpos"]
 	path = fastpos
 	url = https://github.com/johannes-titz/fastpos
