@@ -8,9 +8,6 @@
 [submodule "fastpos"]
 	path = fastpos
 	url = https://github.com/johannes-titz/fastpos
-[submodule "leabRa"]
-	path = leabRa
-	url = https://github.com/johannes-titz/leabra
 [submodule "passt"]
 	path = passt
 	url = https://github.com/johannes-titz/passt
